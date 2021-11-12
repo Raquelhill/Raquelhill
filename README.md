@@ -4,7 +4,7 @@
 
 - 🌱 Front End Developer completing a certificate at Turing School of Software & Design
 
-- 🔭 Currently Self teaching TypeScript
+- 🔭 Currently self-teaching TypeScript
 
 - ⚡ I am an entrepreneur looking for the next exciting work adventure in my life!  I have previous experience in home flipping and plastics recycling.  
 
